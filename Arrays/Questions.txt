@@ -1,0 +1,21 @@
+1) Check Array and display the array with even integer removed
+arr = [3, 2, 4, 7, 10, 6, 5]  # Input array --DONE
+2) Reverse an array
+arr = [2, 11, 5, 10, 7, 8] --DONE
+3) Find smallest integer --Done 
+arr = [5, 9, 3, 15, 1, 2]
+4)find second maximum value in an array --Done
+arr = [12,34,2,34,33,1]
+output: 33
+5) given an array of integers, write a function
+to move all 0's to end of it while maintaing
+relative order of thr non-zero elements
+Example: {8,1,0,2,1,0,3}  --not good
+6) How to resize array double the size 
+arr = [5,9,3,10]
+7) Find the missing number
+[0,1,2,3,5]
+output: 4 
+8) How to check if a string is a palindmore or not 
+string = "madam" same forward and backward
+string = "that" reverse string = "taht"

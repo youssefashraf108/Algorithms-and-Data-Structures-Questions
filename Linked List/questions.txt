@@ -1,0 +1,29 @@
+Q1) create a linked list 
+10 -> 1 -> 8 -> 11 
+Q2) Prepeding (Adding Node to the front of the list) 
+Q3) Appending (Adding Node to the end of the list) 
+Q4) Printing our linked list
+Q5) Remove the first node 
+Q6) Remove the last node  --------------------------------------------------------------------------------(Redo it)
+Q7) Inserting node in a certain position 
+Q8) Removing node at certain position --------------------------------------------------------------------------------(Redo it)
+Q9) How to find the length of the linked list 
+Q10) How to search an element in linked list 
+Q11) How to reverse a singly linked list 
+Q12) Find the nth node of the linked list 
+Q13) How to remove duplicates form sorted linked list
+Q14) Remove a given key from the linked list 
+Q15) How to detact loop in linked list (Fluid Cycle detection algorithm)
+Q16) How to detect the start of the loop in the linked list  (Fluid Cycle detection algorithm)
+Q17) How to remove the loop from singly linked List 
+Q18) Merge two sorted linked list
+Q19) Add two linked list 
+Q20) Implement doubly linked list and 
+Q21) prepend doubly linked list  and 
+Q22) How to insert node at the end at doubly linked list and
+Q23) How to delete first node in a doubly linked list 
+Q24) How to create circular linked list  and
+Q25) How to traverse and print a cicular linked list and
+Q26) How to insert node at the beggining of a circular linked list 
+Q27) How to add node at the end of the circular linked list 
+Q28) How to remove first Node from a cicular linked list 

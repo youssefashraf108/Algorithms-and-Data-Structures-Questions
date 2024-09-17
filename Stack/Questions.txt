@@ -1,0 +1,5 @@
+Q1) How to create a stack using linked list  
+Q2) Create a stack using an array
+Q3) How to reverse an array usig stack
+Q4)  given an array of integers for each element in the array find its next greater element is the first element 
+towards the stack right, which is greater than current element.
