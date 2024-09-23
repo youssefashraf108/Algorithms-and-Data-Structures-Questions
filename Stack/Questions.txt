@@ -3,3 +3,11 @@ Q2) Create a stack using an array
 Q3) How to reverse an array usig stack
 Q4)  given an array of integers for each element in the array find its next greater element is the first element 
 towards the stack right, which is greater than current element.
+Q5) Given a string s, containing just characters '(' and ')'. determine if the inout string is valid
+open brackets must be closed by same type of brackets
+open brackets must be closed in correct order 
+Q6) Create Queue data structure  and Q7) Enque and deque
+Q8) Generate binary numbers from 1 to n using a Queue
+example:
+n = 3
+result = {"1","10","11"} 

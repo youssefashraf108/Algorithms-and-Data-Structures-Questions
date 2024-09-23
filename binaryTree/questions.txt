@@ -1,0 +1,2 @@
+1) Create a tree node left and right pointing to null and 2) Create a binary tree 3) Preorder traversal
+4) Pre order traversal using stack
