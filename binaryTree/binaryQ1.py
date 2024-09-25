@@ -1,4 +1,4 @@
-#1) Create a tree node left and right pointing to null and 2) Create a binary tree
+#1) Create a tree node left and right pointing to null and 2) Create a binary tree 3) Preorder traversal using recursion
 class TreeNode():
     def __init__(self,data):
         self.data = data
@@ -23,7 +23,7 @@ class BinaryTree():
 
         second.left = fourth
 
-    #Pre order traversal of binary tree
+    #3) Preorder traversal using recursion
     def preOrder(self,node):
         if node:
             print(node.data, end = " ")
